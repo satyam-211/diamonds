@@ -147,11 +147,3 @@ The `CartRepository` handles all persistence operations:
 1. Clone the repository
 2. Run `flutter pub get` to install dependencies
 3. Run `flutter run` to start the app
-
-## Future Improvements
-
-- Add unit and widget tests
-- Implement more advanced filtering options
-- Add user authentication and cloud sync for cart data
-- Create a checkout flow
-- Add diamond visualization features
